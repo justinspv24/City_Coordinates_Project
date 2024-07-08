@@ -1,15 +1,12 @@
 # City Coordinates Project
 
+# City Coordinates Project
+
 This project reads a list of city names from a CSV file and uses the `geopy` library to obtain their latitude and longitude coordinates. The coordinates are then saved to a new CSV file.
 
 ## Project Structure
 
-CityCoordinatesProject/
-│
-├── cities.csv
-├── get_coordinates.py
-├── requirements.txt
-└── README.md
+
 
 
 
