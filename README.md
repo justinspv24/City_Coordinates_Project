@@ -8,11 +8,11 @@ CityCoordinatesProject/
 
 │
 ├── cities.csv
-|
+
 ├── get_coordinates.py
-|
+
 ├── requirements.txt
-|
+
 └── README.md
 
 
