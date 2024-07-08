@@ -32,7 +32,7 @@ CityCoordinatesProject/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/CityCoordinatesProject.git
+   git clone https://github.com/justinspv24/City_Coordinates_Project.git
    cd CityCoordinatesProject
 
 
