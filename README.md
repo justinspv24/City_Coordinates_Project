@@ -7,6 +7,7 @@ This project reads a list of city names from a CSV file and uses the `geopy` lib
 CityCoordinatesProject/
 
 │
+
 ├── cities.csv
 
 ├── get_coordinates.py
